@@ -1,16 +1,32 @@
-# movie_ui_exercise
+# 🎬 Movie UI Exercise - Aplikasi Tampilan Filem
 
-A new Flutter project.
+Project latihan Flutter untuk membuat tampilan aplikasi film seperti Netflix.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur Utama
+- 🎠 Carousel "Now Playing" dengan slider
+- 🔥 List horizontal untuk **Trending**, **Popular**, dan **Top Rated**
+- 🌑 Desain dengan **dark mode**
+- 🖼️ Menggunakan **gambar lokal (assets/images)**
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧩 Packages Digunakan
+- [carousel_slider](https://pub.dev/packages/carousel_slider)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 Demo Aplikasi
+
+Tampilan aplikasi di HP Android:
+
+| Tampilan 1 | Tampilan 2 | Tampilan 3 |
+|-------------|-------------|-------------|
+| ![ss1](https://github.com/Indra-Keponakannya-stanley/movie_ui_exercise-aplikasi-filem/blob/main/assets/images/ss1.jpeg?raw=true) | ![ss2](https://github.com/Indra-Keponakannya-stanley/movie_ui_exercise-aplikasi-filem/blob/main/assets/images/ss2.jpeg?raw=true) | ![ss3](https://github.com/Indra-Keponakannya-stanley/movie_ui_exercise-aplikasi-filem/blob/main/assets/images/ss3.jpeg?raw=true) |
+
+
+
+
+📺 **Demo Video:**  https://drive.google.com/drive/folders/1npecqPpN5O1-nfkrvsCRHwdHzKYLFjuf
+
