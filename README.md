@@ -21,9 +21,11 @@ Project latihan Flutter untuk membuat tampilan aplikasi film seperti Netflix.
 
 Tampilan aplikasi di HP Android:
 
-| Tampilan 1 | Tampilan 2 | Tampilan 3 |
-|-------------|-------------|-------------|
-| ![ss1](https://github.com/Indra-Keponakannya-stanley/movie_ui_exercise-aplikasi-filem/blob/main/assets/images/ss1.jpeg?raw=true) | ![ss2](https://github.com/Indra-Keponakannya-stanley/movie_ui_exercise-aplikasi-filem/blob/main/assets/images/ss2.jpeg?raw=true) | ![ss3](https://github.com/Indra-Keponakannya-stanley/movie_ui_exercise-aplikasi-filem/blob/main/assets/images/ss3.jpeg?raw=true) |
+### 📸 Screenshot Aplikasi
+
+![ss1](https://github.com/Indra-Keponakannya-stanley/movie_ui_exercise-aplikasi-filem/blob/main/assets/images/ss1.jpeg?raw=true)
+![ss2](https://github.com/Indra-Keponakannya-stanley/movie_ui_exercise-aplikasi-filem/blob/main/assets/images/ss2.jpeg?raw=true)
+![ss3](https://github.com/Indra-Keponakannya-stanley/movie_ui_exercise-aplikasi-filem/blob/main/assets/images/ss3.jpeg?raw=true)
 
 
 
