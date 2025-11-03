@@ -15,7 +15,7 @@ Project latihan Flutter untuk membuat tampilan aplikasi film seperti Netflix.
 - [carousel_slider](https://pub.dev/packages/carousel_slider)
 
 
-( emo Aplikasi )
+( demo Aplikasi )
 
 Tampilan aplikasi di HP Android:
 
